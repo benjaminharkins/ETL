@@ -2,6 +2,12 @@
 
 #Members: Saibal, Benjamin
 
+
+**************************************************************************************
+*Be sure to shange the password for the database back to postrges before running code.*
+*Also, the notebook file to grade is ETL_Project					     *
+***************************************************************************************
+
 #########################
 #Database table creation#
 #########################
